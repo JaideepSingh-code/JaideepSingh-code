@@ -38,7 +38,7 @@ Currently mentoring youth teams at **Youth Challenge International** on AI-power
 |:--------|:-----|:-------------|
 | [Auction Platform](https://github.com/JaideepSingh-code/Auction-Ecommerce-Platform) | React, TypeScript, FastAPI | Real-time auction e-commerce with live bidding, JWT auth, bcrypt, Docker Compose |
 | [Farmers Hub](https://github.com/JaideepSingh-code/Farmers-Hub) | Java, Swing, PostgreSQL | Agricultural marketplace connecting farmers with buyers — MVC, Repository pattern, JUnit tests |
-| [SalonAI](https://github.com/JaideepSingh-code/SalonAI) | React, Django, LLaMA, K8s | AI salon management — scheduling, price quoting, hairstyle recommendations. 3-tier architecture with LoRA-finetuned LLaMA on V100 GPUs |
+| [SalonAI](https://github.com/JaideepSingh-code/SalonAI) | Next.js, Flask, PostgreSQL, scikit-learn | AI salon management — scheduling, price quoting, hairstyle recommendations via KNN cosine similarity, role-based access, Docker Compose |
 | [Database Testing Suite](https://github.com/JaideepSingh-code/Database-Testing-Suite-Pagila) | PostgreSQL, pgTAP | 508 test cases across schema, constraints, triggers, views, partitioning — 100% pass rate |
 | [Test Suite Analysis](https://github.com/JaideepSingh-code/Test-Suite-Analysis-LLM) | Java, JaCoCo, PIT, LLM | Coverage analysis + LLM-assisted test generation — improved from 48% to near-complete condition-decision coverage |
 | [Apache Commons CLI Testing](https://github.com/JaideepSingh-code/Apache-Commons-CLI-Testing) | Java, JUnit, PIT, EvoSuite | Mutation testing and automated test generation for Apache Commons CLI |
