@@ -1,5 +1,7 @@
 ## Hi, I'm Jaideep Singh
 
+🌐 **Portfolio → [jaideepsingh.dev](https://jaideepsingh.dev)**
+
 Software Engineering student at **York University** (Lassonde School of Engineering) and Software Developer at **Snz Infotech**. I build full-stack applications, design FPGA hardware systems, and work across AI/ML, database testing, formal verification, and computer security.
 
 Currently mentoring youth teams at **Youth Challenge International** on AI-powered food waste classification, and serving on the **Markham Environmental Advisory Committee**.
@@ -74,3 +76,7 @@ Currently mentoring youth teams at **Youth Challenge International** on AI-power
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaideep-singh-163585237/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaideep.engineer@gmail.com)
+
+---
+
+🌐 **[jaideepsingh.dev](https://jaideepsingh.dev)** &nbsp;·&nbsp; 📫 jaideep.engineer@gmail.com
